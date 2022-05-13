@@ -1,1 +1,1 @@
-# LAB1-AMMI-NLP
+#Lab Sessions of NLP Course at AMMI
